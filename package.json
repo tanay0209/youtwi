@@ -1,0 +1,15 @@
+{
+  "name": "youtwi",
+  "version": "1.0.0",
+  "description": "Backend pratice application created while following backend series on youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "nodejs"
+  ],
+  "author": "Tanay Jagnani",
+  "license": "ISC"
+}
